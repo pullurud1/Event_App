@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Event Management App</string>
+    <string name="welcome_to_my_app">welcome to Event</string>
+    <string name="imageview">image</string>
+    <string name="image">image splash</string>
+    <string name="hi_welcome_to_my_app">Welcome to Event App</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="register_name">Name</string>
+    <string name="register_family_name">Family Name</string>
+    <string name="register_date_of_birth_yyyy_mm_dd">Date of Birth (YYYY-MM-DD)</string>
+    <string name="register_email">Email</string>
+    <string name="register_password">Password</string>
+    <string name="register_btn">Register</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_btn">Login</string>
+    <string name="keep_yourself_fit">Celebrete with US</string>
+    <string name="register_heading">Register</string>
+</resources>
